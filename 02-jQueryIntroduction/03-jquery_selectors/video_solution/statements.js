@@ -36,3 +36,36 @@ $("a:last");
 
 // Select all header elements (h1, h2, h3, h4, h5, h6)
 $(":header");
+
+// Selector Challenges
+
+// All elements with an href attribute
+
+// The card_image class
+$(".card_image");
+
+// The footer, using its id
+
+$("#my_footer");
+
+// All paragraph tags within the footer
+
+$("footer p");
+
+// All header elements (<h1> through <h6>)
+
+$(":header");
+
+// The first element on the page
+
+$("first");
+
+// The last div on the page
+
+$(":last");
+
+// The last div on the page
+
+// All elements with an href attribute
+
+console.log($("[href]"));
